@@ -23,3 +23,14 @@ tag for every task
 5. General Mark
 
 Unit test - up to candidate.
+
+
+Task Sample
+
+1. Create iOS project
+2. Create table view to show weather info from https://openweathermap.org/api
+2.1 Each cell should have temperature and date info
+2.2 should be switch between 5-days and 10 days forecast
+3. Create details page for each days  
+3.1 add probability of rain info, date, temperature
+4. Convert table view to grid view. Put rain forecast from details view to each grid cell.
